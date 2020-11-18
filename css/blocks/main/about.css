@@ -6,7 +6,7 @@
 }
 .about-box{
     width: 780px;
-    background-image: url('/images/decor/mountains.jpg');
+    background-image: url('../../images/decor/mountains.jpg');
     background-repeat: no-repeat;
     background-size: auto auto;
     padding: 93px 103px 79px 98px;
@@ -22,7 +22,7 @@
 .about::before{
     content: "";
     display: inline-block;
-    background: url('/images/decor/gates.jpg') center center / cover no-repeat;
+    background: url('../../images/decor/gates.jpg') center center / cover no-repeat;
     height: 488px;
     width: 502px;
     border-radius: 5px;

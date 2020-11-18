@@ -30,28 +30,28 @@
 }
 .socials__telegram::after{
     content: '';
-    background: url('/images/css_sprites.png');
+    background: url('../../images/css_sprites.png');
     background-position: -10px -66px;
     height: 36px;
     display: block;
 }
 .socials__vk::after{
     content: '';
-    background: url('/images/css_sprites.png');
+    background: url('../../images/css_sprites.png');
     background-position: -66px -66px;
     height: 36px;
     display: block;
 }
 .socials__fb::after{
     content: '';
-    background: url('/images/css_sprites.png');
+    background: url('../../images/css_sprites.png');
     background-position: -10px -10px;
     height: 36px;
     display: block;
 }
 .socials__inst::after{
     content: '';
-    background: url('/images/css_sprites.png');
+    background: url('../../images/css_sprites.png');
     background-position: -66px -10px;
     height: 36px;
     display: block;
