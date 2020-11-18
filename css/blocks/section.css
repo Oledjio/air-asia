@@ -1,0 +1,21 @@
+.section-title_icon_fire::after{
+    content: "";
+    background: url('/images/css_sprites.png');
+    background-position: -178px -10px;
+    display: inline-block;
+    height: 28px;
+    width: 21px;
+    margin-left: 11px;
+}
+.section-title{
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.section__title_color_black{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.section_padd_top{
+    padding-top: 100px;
+}

@@ -1,0 +1,10 @@
+.news__title{
+    margin-bottom: 46px;
+}
+.news__wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.news__wrap_marg_bot{
+    margin-bottom: 51px;
+}

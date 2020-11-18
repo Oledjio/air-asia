@@ -1,0 +1,16 @@
+.header{
+    position: relative;
+    padding-top: 31px;
+}
+.header_marg_bot{
+    margin-bottom: 126px;
+}
+.header__menu_marg_left{
+    margin-left: 57px;
+}
+.header__container{
+    display: flex;
+}
+.header_color_white{
+    color: white;
+}

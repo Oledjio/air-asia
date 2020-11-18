@@ -1,0 +1,33 @@
+.button{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f5170e;
+    border-radius: 50px;
+}
+.button_padd_set{
+    padding: 22px 39px 17px;
+}
+.tour-button{
+    color: #f5170e;
+    background-color: #fff;
+    border-radius: 50px;
+    border: 1px solid #fba29f;
+    padding: 22px 29px 20px;
+}
+.button:hover{
+    background-color: #da0100;
+    box-shadow: 0 0 25px 0 rgba(223, 181, 109, .15);
+}
+.tour__button-active{
+    background-color: #f5170e;
+    color: #fff;
+}
+.tour-button:hover{
+    background-color: #f5170e;
+    color: #fff;
+}
+.tour__button-active:hover{
+    background-color: #da0100;
+} 

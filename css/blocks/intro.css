@@ -1,0 +1,51 @@
+.intro{
+    height: 100vh;
+    background-image: url('/images/bg/screen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro__text{
+    font-size: 18px;
+    margin-bottom: 54px;
+    text-align: center;
+}
+
+.intro-wrap{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    min-height: 263px;
+    background-image: url('/images/decor/shades.png');
+    background-position: top 56px center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    animation: anim 0.7s cubic-bezier(.2,.23,.69,1.56) 1s both;
+}
+@keyframes anim{
+    from{
+        transform: scale(0);
+        opacity: 0;
+    }
+    25%{
+        transform: scale(1.1);
+        opacity: 1;
+    }
+    50%{
+        transform: scale(0.9);
+        opacity: 1;
+    }
+    75%{
+        transform: scale(1.1);
+        opacity: 1;
+    }
+    to{
+        transform: scale(1);
+        opacity: 1;
+    }
+}

@@ -1,0 +1,13 @@
+.footer{
+    padding-top: 40px;
+    padding-bottom: 61px;
+}
+.footer__menu_marg_left{
+    margin-left: 57px;
+}
+.footer_bord_top{
+    border-top: 1px solid #1a3038;
+}
+.footer__container{
+    display: flex;
+}

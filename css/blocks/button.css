@@ -1,0 +1,23 @@
+.button{
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f5170e;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+.button_padd_set{
+    padding: 22px 39px 17px;
+}
+.button:hover{
+    background-color: #da0100;
+    box-shadow: 0 0 25px 0 rgba(223, 181, 109, .15);
+}
+button:focus, button:active {
+    outline: none; 
+    box-shadow: none; 
+}
+.btn_padd_set{
+    padding: 20px 59px;
+}

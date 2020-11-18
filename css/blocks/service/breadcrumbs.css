@@ -1,0 +1,18 @@
+.breadcrumbs{
+  font-size: 14px;
+  color: #999999;
+  padding-bottom: 27px;
+}
+.breadcrumbs__list{
+    display: flex;
+}
+.breadcrumbs__item:first-child::after{
+    content: "/";
+    padding-right: 3px;
+}
+.breadcrumbs__item_active{
+    font-weight: bold;
+}
+.breadcrumbs__link{
+    text-decoration: underline;
+}

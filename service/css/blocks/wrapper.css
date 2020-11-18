@@ -1,0 +1,7 @@
+.wrapper__bg{
+    background-image: url('../../images/bg/headline.jpg');
+    background-color: #1a1b1e;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,57 @@
+.pager{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.pager_marg_bot{
+    margin-bottom: 149px;
+}
+.pager__display,.pager__list{
+    display: flex;
+}
+.pager__display{
+    margin-right: 26px;
+    align-self: center;
+}
+.pager__item{
+    display: flex;
+}
+.pager__link{
+    font-weight: bold;
+    display: block;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    line-height: 33px;
+    position: relative;
+}
+.pager_item_active .pager__link{
+    background: #fff;
+    color: #f4160e;
+}
+.pager__link:hover{
+    background: #fff;
+    color: #f4160e;
+}
+/* Услуги */
+.pager_color_black{
+    color: black;
+}
+.pager_item_active_white .pager__link{
+    background: #f5170e;
+    color: white;   
+}
+.pager__link_hover_red:hover{
+    background: #f5170e;
+    color: white; 
+}
+.pager_margin_bot{
+    margin-bottom: 74px;
+}
+/* Услуги */
+
+/* Отзывы */
+.pager_marg_bottom{
+    margin-bottom: 90px;
+}
+/* Отзывы */

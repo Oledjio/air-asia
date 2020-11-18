@@ -1,0 +1,14 @@
+/* главная страница */
+.wrapper_bg{
+    background: url('/images/bg/hero.jpg') center top no-repeat, url('/images/bg/bottom-pic.jpg') center bottom 167px no-repeat;
+    background-color: #001821;
+}
+/* страница с услугами */
+.wrapper__bg{
+    background-image: url('/images/bg/headline.jpg');
+    background-color: #1a1b1e;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+

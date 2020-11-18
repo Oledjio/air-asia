@@ -1,0 +1,28 @@
+.tour_marg_bot{
+    margin-bottom: 141px;
+}
+.tour__title{
+    margin-bottom: 48px;
+}
+.tour__list{
+    display: flex;
+    justify-content: space-between;
+}
+.tour-button{
+    color: #f5170e;
+    background-color: #fff;
+    border-radius: 50px;
+    border: 1px solid #fba29f;
+    padding: 18px 27px 15px;
+}
+/* .tour__button-active{
+    background-color: #f5170e;
+    color: #fff;
+} */
+.tour-button:hover{
+    background-color: #f5170e;
+    color: #fff;
+}
+/* .tour__button-active:hover{
+    background-color: #da0100;
+}  */

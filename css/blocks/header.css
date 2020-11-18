@@ -1,0 +1,17 @@
+.header{
+    position: relative;
+    padding-top: 31px;
+}
+.header_marg_bot{
+    margin-bottom: 137px;
+}
+.header__menu_marg_left{
+    margin-left: 67px;
+}
+.header__container{
+    display: flex;
+}
+/* Услуги */
+.header_margin_bot{
+    margin-bottom: 106px;
+}

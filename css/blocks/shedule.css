@@ -1,0 +1,43 @@
+.schedule{
+    position: absolute;
+    background-color: #dde0df;
+    border-radius: 5px;
+    padding: 18px 15px 16px 18px;
+    top: 100%;
+    right: 0;
+    margin-top: 10px;
+    display: none;
+}
+.schedule__time{
+    font-size: 13px;
+    color: rgb(30, 31, 32);
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 7px;
+}
+.schedule__dinner{
+    font-size: 13px;
+    color: rgb(30, 31, 32);
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+}
+.schedule::after{
+    content: "";
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-bottom-color:#dde0df;
+    position: absolute;
+    top: -10px;
+    right: 45px;
+    border-top-width: 0;
+}
+.schedule::before{
+    content: "";
+    height: 30px;
+    width: 170px;
+    position: absolute;
+    top: -20px;
+    right: 0;
+}

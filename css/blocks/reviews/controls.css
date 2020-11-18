@@ -1,0 +1,27 @@
+.controls{
+    display: flex;
+    flex-wrap: wrap;
+    float: 1;
+}
+.controls_marg_left{
+    margin-left: 32px;
+}
+.controls__elem{
+    cursor: pointer;
+}
+.controls__checkbox{
+    display: none;
+}
+.controls__checkbox:checked~.tag{
+    background: #b9eae4;
+}
+.controls__item{
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.controls__item:first-child{
+    padding-left: 0;
+}
+.controls__item:nth-child(6){
+    padding-left: 0;
+}

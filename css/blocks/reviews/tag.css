@@ -1,0 +1,10 @@
+.tag{
+    padding: 8px 16px;
+    font-size: 13px;
+    color: #333;
+    background-color: #e6e6e6;
+    border-radius: 50px;
+}
+.tag-bg-blue{
+    background-color: #b9eae4;
+}

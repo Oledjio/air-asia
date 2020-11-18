@@ -1,0 +1,21 @@
+.footer_pad_sett{
+    padding-top: 48px;
+    padding-bottom: 58px;
+}
+.footer__menu_marg_left{
+    margin-left: 68px;
+}
+.footer_bord_top{
+    border-top: 1px solid #1a3038;
+}
+.footer__container{
+    display: flex;
+}
+/* Услуги */
+.footer_bg{
+    background-color: #001821;
+}
+.footer_padd_set{
+    padding-top: 47px;
+    padding-bottom: 61px;
+}

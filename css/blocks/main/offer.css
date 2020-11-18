@@ -1,0 +1,26 @@
+.offer{
+    width: 360px;
+}
+.offer__image{
+    width: 100%;
+    height: 140px;
+}
+.offer__image>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.offer__wrap{
+    padding: 30px 45px 32px 23px;
+    background-color: #ffffff;
+}
+.offer__country{
+    margin-bottom: 15px;
+}
+.offer__descriptions{
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+}
+.offer__descriptions_marg_bot{
+    margin-bottom: 27px;
+}

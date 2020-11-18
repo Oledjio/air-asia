@@ -1,0 +1,25 @@
+.socials{
+    display: flex;
+    align-items: center;
+}
+.socials__list{
+    display: flex;
+}
+.socials__item{
+    margin-right: 10px;
+}
+.socials__item:hover{
+    opacity: 0.4;
+}
+.socials__item:last-child{
+    margin-right: 0;
+}
+.socials__img{
+    display: block;
+}
+.scoials__link{
+    display: inline-block;
+}
+.socials_marg_right{
+    margin-right: 73px;
+}

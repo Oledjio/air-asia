@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    align-items: center;
+}
+.menu__item{
+    padding-left: 57px;    
+}
+.menu__list{
+    display: flex;
+}
+.menu__item:first-child{
+    padding-left: 0;
+}
+.menu__link{
+    font-size: 14px;
+}
+.menu__link_active{
+    color: #d81a13;
+}
+.menu__link:hover{
+    color: #d81a13;
+}

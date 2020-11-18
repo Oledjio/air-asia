@@ -1,0 +1,26 @@
+.contact{
+    line-height: 1.1;
+    position: relative;
+}
+.contact__tel{
+    font-size: 26px;
+    font-style: normal;
+    text-decoration: none;
+}
+.contact__graphicwork{
+    font-size: 13px;   
+    font-style: normal;
+    text-align: right;
+}
+.contact__forall{
+    font-size: 11px;
+    color: rgb(153, 153, 153);
+    text-align: right;
+    font-style: normal;
+}
+.contact__graphicwork:hover{
+    text-decoration: underline;
+}
+.contact__graphicwork:hover .schedule{
+    display: block;
+}
