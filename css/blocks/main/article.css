@@ -10,12 +10,12 @@
     min-height: 115px;
 }
 .article_bg_img{
-    background-image: url('../../images/content/news/plain.jpg');
+    background-image: url('../../../images/content/news/plain.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .article_bg_pic{
-    background-image: url('../../images/content/news/surfer.jpg');
+    background-image: url('../../../images/content/news/surfer.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }

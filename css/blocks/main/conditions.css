@@ -28,7 +28,7 @@
 }
 .conditions__calendar::after{
     content: "";
-    background: url('/images/css_sprites.png');
+    background: url('../../../images/css_sprites.png');
     background-position: -10px -122px;
     display: block;
     height: 26px;
@@ -39,7 +39,7 @@
 }
 .conditions__meal::after{
     content: "";
-    background: url('/images/css_sprites.png');
+    background: url('../../../images/css_sprites.png');
     background-position: -122px -10px;
     display: block;
     height: 26px;
